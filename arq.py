@@ -1,5 +1,5 @@
 hero = "Destruidor de Mundo 123"
-xp = 1000
+xp = 100000
 nivel = ""
 
 if xp <= 1000:
